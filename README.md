@@ -20,7 +20,7 @@ Please remember to self host this code! and get respective API keys from discord
 
 Also please make sure to give me credit! not complete credit just a hint in the code like a comment or something will be fine!
   
-You can fork and host the replit repository here: <a href'https://replit.com/@SapphireKR/Robob-MK-II'>Replit Repository</a>
+You can fork and host the replit repository here: <a href='https://replit.com/@SapphireKR/Robob-MK-II'>Replit Repository</a>
 and again please don't forget to get your api keys in these 2 places listed below
 <ol>
   <li><a href='https://discord.com/developers/applications'>Discord Developer Portal</a></li>
