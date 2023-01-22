@@ -14,6 +14,7 @@
   <li>can digitally <b>fake</b> kick you</li>
   <li>can digitally <b>fake</b> ban you</li>
   <li>do advanced mathematics, trigonometry and quadratic equations</li>
+  <li>Send random memes from reddit upon request</li>
 </ol>
 
 Please remember to self host this code! and get respective API keys from discord & openai respectfully. This server cannot handle too many requests! If you don't know what you're doing, I suggest you ask for help from somebody who's good with this stuff.
