@@ -6,7 +6,7 @@
 <ol>
   <li>chat with you, and answer all your questions</li>
   <li>allows you to create custom embeds</li>
-  <li>allows you to create ascii art from your text</li>
+  <li>allows you to create ascii art from your provided text</li>
   <li>can show the location of the iss</li>
   <li>show server member count</li>
   <li>show information regarding your discord server</li>
@@ -15,6 +15,7 @@
   <li>can digitally <b>fake</b> ban you</li>
   <li>do advanced mathematics, trigonometry and quadratic equations</li>
   <li>Send random memes from reddit upon request</li>
+  <li>Generate Images Based Upon your request.</li>
 </ol>
 
 Please remember to self host this code! and get respective API keys from discord & openai respectfully. This server cannot handle too many requests! If you don't know what you're doing, I suggest you ask for help from somebody who's good with this stuff.
